@@ -1,0 +1,30 @@
+.my-navbar { 
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #3a3a3c; 
+  padding: 10px; 
+}
+
+img {
+	height: 80px;
+	width: auto;
+}
+
+
+.liens {
+  display: flex;
+  justify-content: flex-end;
+  justify-content: space-between
+}
+
+.link {
+  margin: 10px 30px;
+  color: white;
+}
+
+.link:hover {
+  color: #d13239;
+  font-weight: bold;
+  text-decoration: none;
+}
