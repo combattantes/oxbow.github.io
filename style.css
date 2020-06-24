@@ -2,12 +2,12 @@ body {
 	text-align: center;
 	justify-content: center;
 align-items: center;
-	background-color: #337598;
+	background-color: white;
 }
 
 h1 {
-	font-size: 34px;
-	color: #337598;
+	font-size: 50px;
+	color: white;
 	font-family: 'Caveat', cursive;
 	justify-content: center;
 align-items: center;
@@ -16,6 +16,11 @@ h2 {
 	font-family: 'Montserrat', cursive;
 	color: #337598;}
 
+h3 {
+	font-family: 'Montserrat', cursive;
+	color: white;
+}
+
 .cadre {
 	background: #3a3a3c; 
 	margin: 100px; 
@@ -23,7 +28,7 @@ h2 {
 	border: 5px solid ; 
 	border-radius: 5px; 
 	border-width: 15px ;
-    border-color: #03475a;
+    border-color: #337598;
 }
 
 .billeterie {
@@ -34,7 +39,7 @@ h2 {
 .billeterie:hover {
 	 font-weight: bold;
   text-decoration: none;
-  color: #03475a;
+  color: #d13239;
 }
 
 .my-navbar { 
@@ -65,4 +70,17 @@ img {
   color: #d13239;
   font-weight: bold;
   text-decoration: none;
+}
+
+
+.fa-calendar-check {
+	color: #337598;
+}
+
+.fa-clock {
+	color: #337598;
+}
+
+.fa-map-marked-alt {
+	color: #337598;
 }

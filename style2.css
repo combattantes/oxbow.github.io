@@ -42,13 +42,13 @@ img {
 }
 
 .cadre {
-	background: #337598; 
+	background: #3a3a3c; 
 	margin: 100px; 
 	padding:50px; 
 	border: 5px solid ; 
 	border-radius: 5px; 
 	border-width: 15px ;
-    border-color: #03475a;
+    border-color: #337598;
 }
 
 .mention {
@@ -56,11 +56,15 @@ img {
 }
 
 
+h1 {
+	color: white;
+}
 
 
-
-
-
+h2 {
+	color: white;
+	font-size: 15px;
+}
 
 
 
